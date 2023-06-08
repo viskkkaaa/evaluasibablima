@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>viska</dc:creator>
+    <dc:title>MEMBUAT LAPORAN SEDERHANA</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>MEMBUAT LAPORAN SEDERHANA</title>
+
+<timer><seconds>1200</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???</default-right-item>
+
+<pair>
+<left-item><text>Untuk menghitung banyaknya data yang kita ketikan pada suatu range	
+	
+</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>COUNT</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Untuk menghitung angka pada range tertentu</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>SUM</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Untuk menentukan nilai tertinggi/terbesar pada suatu range	
+
+</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>MAX</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Untuk menentukan nilai terendah/terkecil pada suatu range	</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>MIN</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Menghitung rata-rata</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>AVERAGE</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>FIELD</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>MARGER</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>FILL HANDLE</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>SORT</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text></text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>TABLE</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>LATIHAN SOAL MENJODOHKAN</exercise-subtitle>
+<instructions>Cocokkan item di sebelah kanan dengan item di sebelah kiri.</instructions>
+<next-ex-url>latihansoalmencocokkan7.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>0</separate-javascript-file>
+<next-caption>Selanjutnya</next-caption>
+<delete-caption>Hapus</delete-caption>
+<guess-correct>Anda Benar! Bagus sekali.</guess-correct>
+<guess-incorrect>Mohon Maaf! Coba lagi.</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Nilai anda saat ini adalah....</your-score-is>
+<correct-indicator>&amp;#x2714;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<times-up>Waktu Anda Telah Habis</times-up>
+<check-caption>Cek Jawaban</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>Latihan Soal Menjodohkan</next-ex-caption>
+<back-caption>Teknologi Informasi dan Komunikasi</back-caption>
+<contents-caption>Pilgan</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>1</include-back>
+<contents-url>evaluasi bab tujuh.htm</contents-url>
+<graphic-url>../../Downloads/514734_f00e_3.jpg</graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>Large</font-size>
+<page-bg-color>#33FFFF</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#66FFCC</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#66FFCC</nav-bar-color>
+<formmail-url></formmail-url>
+<email>viskamai17@gmail.com</email>
+<name-please>Masukkan Nama dan Kelas</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>

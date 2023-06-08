@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>viska</dc:creator>
+    <dc:title>EVALUASI BAB 7</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>EVALUASI BAB 7</title>
+
+<timer><seconds>1800</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Ikon yang digunakan untuk menggabungkan beberapa sel menjadi satu adalah ikon.....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;img src=&quot;gambar/BOLD.jpg&quot; alt=&quot;BOLD.jpg&quot; title=&quot;BOLD&quot; width=&quot;79&quot; height=&quot;100&quot;/&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;gambar/RATA TENGAH.jpg&quot; alt=&quot;RATA TENGAH.jpg&quot; title=&quot;RATA TENGAH&quot; width=&quot;100&quot; height=&quot;84&quot;/&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;gambar/MARGE ADN CELL.jpg&quot; alt=&quot;MARGE ADN CELL.jpg&quot; title=&quot;MARGE ADN CELL&quot; width=&quot;100&quot; height=&quot;97&quot;/&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;img src=&quot;gambar/A.jpg&quot; alt=&quot;A.jpg&quot; title=&quot;A&quot; width=&quot;100&quot; height=&quot;97&quot;/&amp;#x003E;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Fasilitas pada Ms Excel yang memudahkan kita untuk memasukkan data yang berurutan disebut .....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Filter</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Formula</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Sort</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>AutoFill</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Fungsi yang digunakan untuk menghitung penjumlahan data angka adalah ....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>SUM</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>MAX</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>COUNT</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Average</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Misalkan pada sel B5 dituliskan formula &quot;=4^2&quot; maka isi dari sel B5 adalah ....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>4</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>8</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>16</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>32</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Sumbu ..... adalah sumbu grafik yang tegak (vertikal).</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Axis</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ordinat</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Legend</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Cartesius</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Ikon  &amp;#x003C;img src=&quot;gambar/WhatsApp Image 2023-05-22 at 00.41.53.jpg&quot; alt=&quot;WhatsApp Image 2023-05-22 at 00.41.53.jpg&quot; title=&quot;WhatsApp Image 2023-05-22 at 00.41.53&quot; width=&quot;200&quot; height=&quot;35&quot;/&amp;#x003E; berfungsi untuk .... </question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Memberi judul pada grafik</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Memberi label pada sumbu X</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Memberi label pada sumbu Y</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Menampilkan legenda dari grafik</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Ikon chart wall berfungsi untuk ....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Memberi judul grafik</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Memberi background pada grafik</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Memberi label pada grafik</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Memberi legenda pada grafik</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question> Maksud dari sort ascending adalah ....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Mengurutkan data dari atas ke bawah</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mengurutkan data dari baris kiri ke kanan</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mengurutkan data dari besar ke kecil</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mengurutkan data dari kecil ke besar</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Perintah yang digunakan untuk menyimpan dokumen adalah ....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Ctrl + O</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ctrl + N</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ctrl + S</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Ctrl + p</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Perintah Ctrl + p digunakan untuk .....</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Mengganti sebuah kata dengan kata yang lain</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Menemukan suatu kata pada isi dokumen</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Membatalkan perintah terakhir yang dikerjakan</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>Mencetak dokumen</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle>MEMBUAT LAPORAN SEDERHANA</exercise-subtitle>
+<instructions>Kompetensi Inti:
+2. Menggunakan perangkat lunak pengolah angka untuk menyajikan informasi.
+
+Kompetensi Dasar:
+2.3 Menggunakan menu dan ikon pada perangkat Lunak pengolah angka
+2.4 membuat dokumen pengolah angka sederhana
+
+Pilihlah jawaban yang benar dengan cara mengklik pada kolom A, B, C, dan D</instructions>
+<guess-correct>Jawaban Anda Benar</guess-correct>
+<guess-incorrect>Maaf jawaban anda salah, coba anda ulang lagi</guess-incorrect>
+<partly-incorrect>Jawaban anda sebagian salah</partly-incorrect>
+<enter-a-guess>silahkan masukkan jawaban anda</enter-a-guess>
+<next-correct-letter>Next correct letter in the answer: </next-correct-letter>
+<correct-answers>Jawaban yang benar: </correct-answers>
+<show-answer-caption>Perlihatkan jawaban</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>latihansoalmencocokkan7.htm</next-ex-url>
+<send-email>1</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>1</case-sensitive>
+<include-keypad>1</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Nilai anda saat ini adalah....</your-score-is>
+<correct-indicator>&amp;#x2714;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<correct-first-time>Pertanyaan dijawab dengan benar pertama kali:</correct-first-time>
+<completed-so-far>Pertanyaan yang sudah anda jawab :</completed-so-far>
+<exercise-completed>Anda telah menyelesaikan Evaluasi Bab 5</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Waktu Anda Telah Habis</times-up>
+<next-ex-caption>Latihan Soal Menjodohkan</next-ex-caption>
+<back-caption>Teknologi Informasi dan Komunikasi</back-caption>
+<contents-caption>Pilgan</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>1</include-back>
+<contents-url>evaluasi bab tujuh.htm</contents-url>
+<graphic-url>gambar/514734_f00e_3.jpg</graphic-url>
+<font-face>Arial,Geneva,sans-serif</font-face>
+<font-size>Large</font-size>
+<page-bg-color>#33FFFF</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#66FFCC</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#66FFCC</nav-bar-color>
+<formmail-url></formmail-url>
+<email>viskamai17@gmail.com</email>
+<name-please>Masukkan Nama dan Kelas</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Pertanyaan dijawab dengan benar pertama kali:</correct-first-time>
+<check-caption>Cek Jawaban</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>Pertanyaan Selanjutnya</next-q-caption>
+<last-q-caption>Pertanyaan Sebelumnya</last-q-caption>
+<hint-caption>Petunjuk</hint-caption>
+<show-all-questions-caption>Tampilkan semua pertanyaan</show-all-questions-caption>
+<show-one-by-one-caption>Tampilkan pertanyaan satu per satu</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
